@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+black
+flake8
+python-dotenv
+swagger_auto_schema
